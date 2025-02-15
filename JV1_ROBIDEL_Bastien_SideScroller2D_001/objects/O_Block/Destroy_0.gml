@@ -1,0 +1,1 @@
+with (myground) instance_destroy();
